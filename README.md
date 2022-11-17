@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulqhayyum
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ... New hiring companies 
+- 💞️ I’m looking to collaborate on ... New hiring companies for fresher
 - 📫 How to reach me ... Mobile no- 7019030100
 
 <!---
